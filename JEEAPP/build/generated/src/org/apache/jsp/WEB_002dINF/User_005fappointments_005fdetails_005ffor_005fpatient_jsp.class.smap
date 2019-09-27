@@ -1,0 +1,45 @@
+SMAP
+User_005fappointments_005fdetails_005ffor_005fpatient_jsp.java
+JSP
+*S JSP
+*F
++ 0 User_appointments_details_for_patient.jsp
+WEB-INF/User_appointments_details_for_patient.jsp
++ 1 logHeader.jsp
+WEB-INF/logHeader.jsp
++ 2 logFooter.jsp
+WEB-INF/logFooter.jsp
+*L
+5,32:56
+5#1,59:88
+36#0,11:146
+47,24:158
+70,9:182
+79:191,3
+80,7:194
+88,3:203
+90,5:206
+95:211,3
+96,24:214
+120,9:239
+128,16:248
+144,8:265
+151,2:273
+153,7:275,3
+160,3:296
+163,6:300
+168,26:306
+194,8:333
+201,2:341
+203,4:343,3
+207:355
+208:356,3
+209:359,6
+210,5:365
+215,6:371
+220,10:377
+230:387,3
+231,37:390
+5#2,105:427
+267#0,9:531
+*E
